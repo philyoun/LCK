@@ -10,8 +10,22 @@ Among 5 positions(TOP, JG, MID, BOT, SUP), the player who got the most votes bec
 If a tie occurs, casting votes system activates, ANY1,2, OBS1 have the rights to votes.
 
 2 Ways of analyzing this data.
+
 1. Incorrect Rate
+
+How badly 'each voters' did the vote?
+
 ![graph](./images/ppt4.png)
 
+You can see that ENG1,2, MED1,2,3 got higher incorrect rates than others.
+
 2. Hongdae Score
-![table](./ppt/ppt6.png)
+
+Each voter gets "Hongdae score" when no other voters voted the player he or she voted.
+i.e. If KOR1 is the only one who voted for JG, whereas other 11 voters voted for MID, KOR1 gets +1 Hongdae score.
+
+![table](./images/ppt6.png)
+
+You can see that ENG1,2, MED1,3 got much higher Hongdae scores than others.
+
+LCK_R1.R file has the source code for these.
