@@ -13,8 +13,8 @@ If a tie occurs, casting votes system activates, ANY1,2, OBS1 have the rights to
 
 1. Incorrect Rate
 
-How badly 'each voters' did the vote?
-For example, KOR1 voted for JG, KOR2 voted for MID. Elected POG was the MID.
+How badly 'each voters' did the vote?<br/>
+For example, KOR1 voted for JG, KOR2 voted for MID. Elected POG was the MID.<br/>
 Then KOR1 gets Wrong point +1, KOR2 gets Correct point +1
 
 ![graph](./images/ppt4.png)
