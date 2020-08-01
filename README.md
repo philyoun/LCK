@@ -21,6 +21,8 @@ Then KOR1 gets Wrong point +1, KOR2 gets Correct point +1
 
 You can see that ENG1,2, MED1,2,3 got higher incorrect rates than others.
 
+___
+
 2. Hongdae Score
 
 Each voter gets "Hongdae score" when no other voters voted the player he or she voted.<br/>
