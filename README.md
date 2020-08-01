@@ -11,7 +11,7 @@ If a tie occurs, casting votes system activates, ANY1,2, OBS1 have the rights to
 
 2 Ways of analyzing this data.
 1. Incorrect Rate
-![graph](<img src="file://ppt/ppt5.jpg" alt="alt text" width="200"/>)
+![graph](<img src="file://C:/Users/Phil2/Desktop/DS/LCK/ppt/ppt5.jpg" alt="alt text" width="200"/>)
 
 2. Hongdae Score
 ![table](./ppt/ppt6.png)
